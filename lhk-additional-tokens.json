@@ -26,6 +26,14 @@
       "name": "Wrapped AVAX",
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.png?v=014"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+      "symbol": "1USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://firebasestorage.googleapis.com/v0/b/defi-kingdoms.appspot.com/o/tokens%2F1USDC.png?alt=media"
     }
   ]
 }
