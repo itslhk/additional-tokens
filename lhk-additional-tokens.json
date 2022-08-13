@@ -29,6 +29,15 @@
       "tags": ["dfk chain"]
     },
     {
+      "chainId": 53935,
+      "address": "0x79fE1fCF16Cc0F7E28b4d7B97387452E3084b6dA",
+      "symbol": "DFKTEARS",
+      "name": "DFKTEARS",
+      "decimals": 0,
+      "logoURI": "https://game.defikingdoms.com/static/media/ethereum-logo.67332c97.png",
+      "tags": ["dfk chain"]
+    },
+    {
       "chainId": 1666600000,
       "address": "0xD9eAA386cCD65F30b77FF175F6b52115FE454fD6",
       "symbol": "WAVAX",
